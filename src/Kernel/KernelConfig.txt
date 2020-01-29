@@ -1,0 +1,17 @@
+MatrixMultiply_v5
+ReLU
+Transpose
+MeanSquaredError
+AddToMatrix
+GradientDecent
+Softmax
+CrossEntropy
+Sigmoid
+Tanh
+ElementWiseProduct
+Convolution_v3
+RotateAndReorder
+MaxPooling
+AdamOptimizer
+Add
+SplitData
