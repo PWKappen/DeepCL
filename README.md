@@ -5,7 +5,8 @@ This is a Deep Learning framework I wrote during my Master thesis. It allowes th
 The static computation graph is used for automatic differentation, allowing differentation through arbitrary mathematical expressions implemented in this framework.
 
 ## Example
-The bin directory contains a executable that trains the LeNet model, using the CPU or GPU, on the MNIST dataset. 
+The bin directory contains an executable (compiled for windows x86) that trains the LeNet model, using the CPU or GPU, on the MNIST dataset.
+The source code of it can be found in the main file.
 In the following images an execution on the MNIST dataset is displayed.
 ![](images/ExampleRun1.png)
 ![](images/ExampleRun2.png)
